@@ -5,7 +5,10 @@
 
 ## Overview:
 ### Push a button, get an optimized solar project  
-The reason for Solaris is to enable Project Developers and Originators to get the most competitive project configuration with the lowest possible LCOE in real-time. The hope is that this leads to a competitive advantage such that EDF constructs an additional 150 MW project per year. This translates into ___$37.5M___ per year in value by assuming EDF realizes approximatley $75M NPV at CoD and assuming the Digital organization gets half the credit for the project being built. 
+The reason for Solaris is to enable Project Developers and Originators to get the most competitive project configuration with the lowest possible LCOE in real-time. The hope is that this leads to a competitive advantage such that EDF constructs an additional 150 MW project per year. This translates into ___$37.5M___ per year in value by assuming EDF realizes approximatley $75M NPV at CoD and assuming the Digital organization gets half the credit for the project being built.
+
+This comes from the Development business setting the 2021 strategy in January:
+![GSP Priorities](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Strat2021.PNG?token=ADPV3PC6FFB74Y6ESJA7SXLBBFD62)
 
 ## Objectives:
 - Lead to an extra 150 MW solar project per year.
@@ -56,7 +59,7 @@ The reason for Solaris is to enable Project Developers and Originators to get th
 
 ## Personas
 ### Project Developer Dominique (PRIMARY)
-![Dominique](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Persona%20-%20Dominique.png?token=ADPV3PB3P5EP32NVSAQCXRLBBCP2Q) 
+![Dominique](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Dominique.png?token=ADPV3PA7ULK5ULZGO7JH7MTBBFDW4) 
 Dominique joined EDF a year ago right after earning a Master's in Environmental Studies from Yale. Previously, she was a project management intern at the Environmental Defence Fund. She’s quickly becoming familiar with the renewable energy industry and motivated to make a positive impact on the planet via solar development. 
 
 Much of Dominique's job is in the context of project management and so she thinks in terms of construction management and waterfall vs agile practices. She also travels a lot for her job and she can be out of the office up to 75% of the time, visiting sites, meeting with communitees and land owners, or traveling to our corporate headquaters in San Diego. 
@@ -64,7 +67,7 @@ Much of Dominique's job is in the context of project management and so she think
 Outside of the office Dominique is an outdoor enthusiast. She enjoys canoeing in the Boundary Waters Wilderness, spending time with her community at the local bars, taking her dog to the park, and traveling for vacation.
 
 ### Originator Oscar
-![Oscar](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Persona%20-%20Oscar.png?token=ADPV3PH2IZWOOJI2MILIR7TBBCQIG) 
+![Oscar](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Oscar.png?token=ADPV3PH6GEXB6AW6I3EXYWDBBFDYW) 
 Oscar has been with EDF for a year. Previously, he was in Oil and Gas so he’s very familiar with mature energy industries. Oscar is the go-to person to ask about business development strategy and market insights. He has an MBA from Northwestern University with a concentration in Finance.
 
 Outside of the office, Oscar is a social foodie. He spent his early childhood in Argentina and loves Burmese food. On the weekends he is often volunteering at Habitat for Humanity, the San Diego Food Bank, or the Star of Hope Mission.
@@ -99,8 +102,8 @@ As Dominique wraps up the RFP application she's just in time to head out at 3 pm
 - GIS analysis
 
 ## Designs
-![Project first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Prelim%20Design%201.png?token=ADPV3PBPVB2UOEIVEWM5PIDBBCTGS)  
-![Services first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Prelim%20Design%202.png?token=ADPV3PCOQW3ZKW6N2ANM2YDBBCTKO)
+![Project first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Prelim%20Design%201.png?token=ADPV3PA7B5SUD5NYBXPHXTDBBFD2E)  
+![Services first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Prelim%20Design%202.png?token=ADPV3PETBUPB7YVMD3MBQMLBBFD3I)
 
 ## Open Issues
 - Do we have the right slice?
