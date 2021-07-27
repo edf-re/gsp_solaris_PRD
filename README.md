@@ -19,6 +19,9 @@ This comes from the Development business setting the 2021 strategy in January:
 - Reduce SME workload.
 
 ## Success Metrics:
+### Value Stream Mapping
+![Current Costing Process](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/ValueStreamMapping.png?token=ADPV3PDIY6K5LWQ3W66R3QTBBFLPI)
+
 ### Happiness
 - Goal: For users (developers and originators) to feel like the platform is giving them a reliable answer, faster.
 - Signals: A satisfaction rating from a survey.
