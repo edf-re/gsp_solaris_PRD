@@ -5,7 +5,7 @@
 
 ## Overview:
 ### Push a button, get an optimized solar project  
-The reason for Solaris' existance is to enable Project Developers and Originators to get the most competitive project configuration with the lowest possible LCOE in real time. The hope is that this leads to a competitive advantage such that EDF constructs an additional 150 MW project per year. This translates into ___$37.5M___ per year in value by assuming EDF realizes approximatley $75M NPV at CoD and assuming Solaris gets half credit for the project being built. 
+The reason for Solaris is to enable Project Developers and Originators to get the most competitive project configuration with the lowest possible LCOE in real-time. The hope is that this leads to a competitive advantage such that EDF constructs an additional 150 MW project per year. This translates into ___$37.5M___ per year in value by assuming EDF realizes approximatley $75M NPV at CoD and assuming the Digital organization gets half the credit for the project being built. 
 
 ## Objectives:
 - Lead to an extra 150 MW solar project per year.
