@@ -107,7 +107,11 @@ As Dominique wraps up the RFP application she's just in time to head out at 3 pm
 ![What is an MVP?](https://www.spaceo.ca/wp-content/uploads/2020/12/minimum-viable-product-mvp.jpg)
 
 ## Q&A
-- What is the difference between Solaris, Centralized Assumptions Database, and the Costing Database
+__What is the difference between Solaris, Centralized Assumptions Database, and the Costing Database?__ 
+
+Firstly, Solaris is the platform upon which EDF can build the capability to optimize projects using the computational power of the cloud. This means that Solaris can model 10,000 different project scenarios and configurations to show you the 5 most competitive versions to bid, all within a couple of minutes. It is easliy accessible on your phone or tablet so that you have all the most recent assumptions, inforamtion and project details in real-time.
+
+Solaris is powered by the Centralized Assumptions Database. All the most recent information and current assumptions developed by Technical Services is automatically ingested into Solaris so that you don't have to worry about an update to the solar-module roadmap or a forward price curve change. Solaris also uses the same processes as the Costing Database so that you know there won't be any surprises when you go to PFM and V&A for Pricing Committee on Friday.
 
 ## Other considerations
 None at this time. 
