@@ -4,7 +4,7 @@
 2021.07.26 - Initial release
 
 ## Overview:
-### Push a button, get an optimized solar project  
+### "Push a button, get an optimized solar project"  
 The reason for Solaris is to enable Project Developers and Originators to get the most competitive project configuration with the lowest possible LCOE in real-time. The hope is that this leads to a competitive advantage such that EDF constructs an additional 150 MW project per year. This translates into ___$37.5M___ per year in value by assuming EDF realizes approximatley $75M NPV at CoD and assuming the Digital organization gets half the credit for the project being built.
 
 This comes from the Development business setting the 2021 strategy in January:
@@ -22,31 +22,6 @@ This comes from the Development business setting the 2021 strategy in January:
 ### Value Stream Mapping
 ![Current Costing Process](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/ValueStreamMapping.png?token=ADPV3PDIY6K5LWQ3W66R3QTBBFLPI)
 
-### Happiness
-- Goal: For users (developers and originators) to feel like the platform is giving them a reliable answer, faster.
-- Signals: A satisfaction rating from a survey.
-- Metrics: Net Promoter Score, satisfaction, can you live without the product?
-
-### Engagement
-- Goal: Maximize the number of project configurations considered by a developer.
-- Signals: Number of configurations generated for a project. 
-- Metrics: Count of `analysis_ids`, average count per project, rate at which new projects are created. 
-
-### Adoption 
-- Goal: For all of development to use the platform for solar project development.
-- Signals: Number of developers and originators within GSP activly using the platform on a daily basis.
-- Metrics: Percent of Development and Origination as daily active users. 
-
-### Retention
-- Goal: For GSP development users to rely on the product for thier daily work.
-- Signals: Number of repeat users within GSP Development.
-- Metrics: Repeat users, daily users, amount of time between user sessions.
-
-### Task Success
-- Goal: For users to get an accurate predicted revenue stream. 
-- Signals: The number of successful analyses performed on a project.
-- Metrics: Analysis count, analyses per week per project. 
-
 ## Release Plan
 - Q2 2021 - BoP Modeling ([Computron](computron.edfr.com))  
 - Q3 2021 - Proforma  
@@ -63,6 +38,7 @@ This comes from the Development business setting the 2021 strategy in January:
 ## Personas
 ### Project Developer Dominique (PRIMARY)
 ![Dominique](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Dominique.png?token=ADPV3PA7ULK5ULZGO7JH7MTBBFDW4) 
+
 Dominique joined EDF a year ago right after earning a Master's in Environmental Studies from Yale. Previously, she was a project management intern at the Environmental Defence Fund. She’s quickly becoming familiar with the renewable energy industry and motivated to make a positive impact on the planet via solar development. 
 
 Much of Dominique's job is in the context of project management and so she thinks in terms of construction management and waterfall vs agile practices. She also travels a lot for her job and she can be out of the office up to 75% of the time, visiting sites, meeting with communitees and land owners, or traveling to our corporate headquaters in San Diego. 
@@ -71,6 +47,7 @@ Outside of the office Dominique is an outdoor enthusiast. She enjoys canoeing in
 
 ### Originator Oscar
 ![Oscar](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Oscar.png?token=ADPV3PH6GEXB6AW6I3EXYWDBBFDYW) 
+
 Oscar has been with EDF for a year. Previously, he was in Oil and Gas so he’s very familiar with mature energy industries. Oscar is the go-to person to ask about business development strategy and market insights. He has an MBA from Northwestern University with a concentration in Finance.
 
 Outside of the office, Oscar is a social foodie. He spent his early childhood in Argentina and loves Burmese food. On the weekends he is often volunteering at Habitat for Humanity, the San Diego Food Bank, or the Star of Hope Mission.
@@ -118,6 +95,32 @@ __What is the difference between Solaris, Centralized Assumptions Database, and 
 Firstly, Solaris is the platform upon which EDF can build the capability to optimize projects using the computational power of the cloud. This means that within minutes, Solaris can model 10,000 different project scenarios and configurations to show you the 5 most competitive versions to bid into an RFP. It is easliy accessible on your phone or tablet so that you have all the most recent assumptions, inforamtion and project details in real-time.
 
 Solaris is powered by the Centralized Assumptions Database. All the most recent, project-agnostic information and current market assumptions developed by Technical Services are uploaded to the Centralized Assumptions Database. Those assumptions are then automatically ingested into Solaris so that you no longer have to worry about an update to the solar-module roadmap or a forward price curve change. Solaris also uses the same processes as the Costing Database so that you know there won't be any surprises when you go to PFM and V&A for Pricing Committee on Friday.
+
+__What are the supporting metrics for the Success Metrics?__
+#### Happiness
+- Goal: For users (developers and originators) to feel like the platform is giving them a reliable answer, faster.
+- Signals: A satisfaction rating from a survey.
+- Metrics: Net Promoter Score, satisfaction, can you live without the product?
+
+#### Engagement
+- Goal: Maximize the number of project configurations considered by a developer.
+- Signals: Number of configurations generated for a project. 
+- Metrics: Count of `analysis_ids`, average count per project, rate at which new projects are created. 
+
+#### Adoption 
+- Goal: For all of development to use the platform for solar project development.
+- Signals: Number of developers and originators within GSP activly using the platform on a daily basis.
+- Metrics: Percent of Development and Origination as daily active users. 
+
+#### Retention
+- Goal: For GSP development users to rely on the product for thier daily work.
+- Signals: Number of repeat users within GSP Development.
+- Metrics: Repeat users, daily users, amount of time between user sessions.
+
+#### Task Success
+- Goal: For users to get an accurate predicted revenue stream. 
+- Signals: The number of successful analyses performed on a project.
+- Metrics: Analysis count, analyses per week per project. 
 
 ## Other considerations
 None at this time. 
