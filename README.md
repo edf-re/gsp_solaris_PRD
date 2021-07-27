@@ -42,7 +42,7 @@ The reason for Solaris' existance is to enable Project Developers and Originator
 - Metrics: Analysis count, analyses per week per project. 
 
 ## Release Plan
-- Q2 2021 - BoP Modeling [Computron](computron.edfr.com)  
+- Q2 2021 - BoP Modeling ([Computron](computron.edfr.com))  
 - Q3 2021 - Proforma  
     - Forward price curve inputs
     - PPA revenue modeling
