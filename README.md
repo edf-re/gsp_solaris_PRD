@@ -1,7 +1,7 @@
 # Solaris
 
 ## Change History
-2021.07.26 - Initial release
+2021.07.26 - Initial draft for comment
 
 ## Overview:
 ### "Push a button, get an optimized solar project"  
