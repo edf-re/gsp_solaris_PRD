@@ -23,6 +23,11 @@ This comes from the Development business setting the 2021 strategy in January:
 ![Current Costing Process](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/ValueStreamMapping.png?token=ADPV3PGWUQXH7V6T447TJADBBKLV4)
 
 ## Release Plan
+- Q1 2021 - Prototyping
+    - [Buildable Land Library](https://share.streamlit.io/edf-re/gsp_solaris_bl_library/main/app.py)
+    - GSP Cluster
+    - Pipeline generator
+    - [Opti Tool request form prototype](https://share.streamlit.io/edf-re/gsp_solaris_opti_tool/main/app.py)
 - Q2 2021 - BoP Modeling ([Computron](computron.edfr.com))  
 - Q3 2021 - Proforma  
     - Forward price curve inputs
