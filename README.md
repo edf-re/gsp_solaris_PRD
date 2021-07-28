@@ -64,21 +64,25 @@ Within two hours, Dominique has pricing committee approval to submit the three p
 As Dominique wraps up the RFP application she's just in time to head out at 3 pm for the three hour ride to the trip put-in. She won't worry about the RFP or the accuracy of the project modeling as she paddles with her friends and drinks around a campfire that evening. 
 
 ## Requirements (Features In)
+- View small (less than eight) project portfolio
 - Results delivered within minutes.
 - Easily accessed via a phone or tablet or laptop
-- Seamless pipeline from GIS to V&A processes to get UIRR
+- Seamless results pipeline from GIS to V&A processes to get UIRR
     - EPE
-    - CapEx
+    - CapEx 
     - OpEx
     - Proforma
 
 ## Features Out
+- SME tools (providing front ends for Technical Services users)
+    - Computron
+    - EPE
+    - CapEx and OpEx modeling
 - Tax equity
 - IRR (including levered returns and outside investment)
 - Storage
 - Prospecting (modeling across multiple sites)
 - Competitor analysis (modeling non-EDF sites)
-- SME tools (providing front ends for Technical Services users)
 - GIS analysis
 
 ## Designs
