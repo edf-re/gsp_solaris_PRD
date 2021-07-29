@@ -41,21 +41,13 @@ This comes from the Development business setting the 2021 strategy in January:
     - Construction quantities - Schedule of Values (SoV)
 
 ## Personas
+[Personas Deck on Sharepoint](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={B3F49786-79BA-4A00-BA9C-58025DB20339})
+
 ### Project Developer Dominique (PRIMARY)
 ![Dominique](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Dominique.png?token=ADPV3PA7ULK5ULZGO7JH7MTBBFDW4) 
 
-Dominique joined EDF a year ago right after earning a Master's in Environmental Studies from Yale. Previously, she was a project management intern at the Environmental Defence Fund. She’s quickly becoming familiar with the renewable energy industry and motivated to make a positive impact on the planet via solar development. 
-
-Much of Dominique's job is in the context of project management and so she thinks in terms of construction management and waterfall vs agile practices. She also travels a lot for her job and she can be out of the office up to 75% of the time, visiting sites, meeting with communities and land owners, or traveling to our corporate headquarters in San Diego. 
-
-Outside of the office Dominique is an outdoor enthusiast. She enjoys canoeing in the Boundary Waters Wilderness, spending time with her community at the local bars, taking her dog to the park, and traveling for vacation.
-
 ### Originator Oscar
 ![Oscar](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Oscar.png?token=ADPV3PH6GEXB6AW6I3EXYWDBBFDYW) 
-
-Oscar has been with EDF for a year. Previously, he was in Oil and Gas so he’s very familiar with mature energy industries. Oscar is the go-to person to ask about business development strategy and market insights. He has an MBA from Northwestern University with a concentration in Finance.
-
-Outside of the office, Oscar is a social foodie. He spent his early childhood in Argentina and loves Burmese food. On the weekends he is often volunteering at Habitat for Humanity, the San Diego Food Bank, or the Star of Hope Mission.
 
 ## User Scenarios
 Its a Friday in late August and Dominique has a weekend canoeing trip planned with her community of friends. Its about 8:45 am and she's just arrived at the Minneapolis office. She puts her bag down at her desk and heads toward the kitchen for her first cup of coffee. She's really looking forward to leaving the office a bit early to head out on her trip this afternoon. 
@@ -114,7 +106,7 @@ __What are the supporting metrics for the Success Metrics?__
 #### Engagement
 - Goal: Maximize the number of project configurations considered by a developer.
 - Signals: Number of configurations generated for a project. 
-- Metrics: Count of `analysis_ids`, average count per project, rate at which new projects are created. 
+- Metrics: Count of `analysis_id`, average count per project, rate at which new projects are created. 
 
 #### Adoption 
 - Goal: For all of development to use the platform for solar project development.
@@ -130,6 +122,23 @@ __What are the supporting metrics for the Success Metrics?__
 - Goal: For users to get an accurate predicted revenue stream. 
 - Signals: The number of successful analyses performed on a project.
 - Metrics: Analysis count, analyses per week per project. 
+
+## Canvases
+[Product Board](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={FE974070-E83F-411F-B55A-86337FF43070})  
+[Roadmap on Miro](https://miro.com/app/board/o9J_koCUiUI=/?moveToWidget=3074457352733050831&cot=14)  
+[BOS - Aug 2012 on Miro](https://miro.com/app/board/o9J_lCDoBSo=/?moveToWidget=3074457361071563061&cot=14)  
+[Lean Canvas on Miro](https://miro.com/app/board/o9J_l5fqE60=/?moveToWidget=3074457361933883224&cot=14)
+
+## Past Presentations
+[Overview - July 2021](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={768F088E-38F7-4B73-8B18-56562C789A81})  
+[Business Model](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={A73CF1B2-DD36-4E70-81A5-1AA8BB46F25A})  
+[API Deployment - Python User Group - June 2021](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={752B3B94-9754-4F07-9AEC-1CA33ADBD245})  
+
+## APIs
+[Authentication via Azure AD](https://edf-gsp.com/auth/login/docs/)  
+[Project Database]()  
+[Buildable Land]()  
+[Computron]()  
 
 ## Other considerations
 None at this time. 
