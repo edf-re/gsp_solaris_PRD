@@ -60,7 +60,7 @@ Within two hours, Dominique has pricing committee approval to submit the three p
 
 As Dominique wraps up the RFP application she's just in time to head out at 3 pm for the three hour ride to the trip put-in. She won't worry about the RFP or the accuracy of the project modeling as she paddles with her friends and drinks around a campfire that evening. 
 
-## Requirements (Features In)
+## Features In
 - View small (less than eight) project portfolio
 - Results delivered within minutes.
 - Easily accessed via a phone or tablet or laptop
