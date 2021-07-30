@@ -123,22 +123,40 @@ __What are the supporting metrics for the Success Metrics?__
 - Signals: The number of successful analyses performed on a project.
 - Metrics: Analysis count, analyses per week per project. 
 
-## Canvases
+## Strategy Canvases
+[Solaris Miro Board](https://miro.com/app/board/o9J_koCUiUI=/)
 [Product Board](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={FE974070-E83F-411F-B55A-86337FF43070})  
 [Roadmap on Miro](https://miro.com/app/board/o9J_koCUiUI=/?moveToWidget=3074457352733050831&cot=14)  
-[BOS - Aug 2012 on Miro](https://miro.com/app/board/o9J_lCDoBSo=/?moveToWidget=3074457361071563061&cot=14)  
 [Lean Canvas on Miro](https://miro.com/app/board/o9J_l5fqE60=/?moveToWidget=3074457361933883224&cot=14)
+[UX Strategy on Miro](https://miro.com/app/board/o9J_l4rt6jw=/?moveToWidget=3074457361974012570&cot=14)
 
 ## Past Presentations
 [Overview - July 2021](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={768F088E-38F7-4B73-8B18-56562C789A81})  
 [Business Model](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={A73CF1B2-DD36-4E70-81A5-1AA8BB46F25A})  
 [API Deployment - Python User Group - June 2021](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={752B3B94-9754-4F07-9AEC-1CA33ADBD245})  
+[BOS - Aug 2012 on Miro](https://miro.com/app/board/o9J_lCDoBSo=/?moveToWidget=3074457361071563061&cot=14)  
+
 
 ## APIs
-[Authentication via Azure AD](https://edf-gsp.com/auth/login/docs/)  
-[Project Database]()  
-[Buildable Land]()  
-[Computron]()  
+- Authentication via Azure AD
+    - `https://edf-gsp.com/auth/login/docs`  
+- Project Tracker Database
+    - `https://edf-gsp.com/projects`  
+- Buildable Land 
+    - `https://edf-gsp.com/buildable-land`
+    - `https://edf-gsp.com/buildable-land/{project_id}/{buildable_id}`  
+- [Computron](computron.edfr.com)
+    - `https://edf-gsp.com/bopcapex/inputs/docs`
+    - `https://edf-gsp.com/bopcapex/inputs/analysis/{analysis_id}`
+    - `https://edf-gsp.com/bopcapex/results/scenarios/`  
+    - `https://edf-gsp.com/bopcapex/results/pfm/{scenario}`
+- Autolayout
+    - Tracker fill
+        - `https://dev.edf-gsp.com/layout/input`
+        - `https://dev.edf-gsp.com/layout/fill/result/{project_id}/{analysis_id}`
+    - Tracker cut
+    - Tracker cluster
+    - PV Tender
 
 ## Other considerations
 None at this time. 
