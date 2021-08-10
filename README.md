@@ -139,21 +139,25 @@ __What are the supporting metrics for the Success Metrics?__
 
 ## APIs
 - Authentication via Azure AD
-    - `https://edf-gsp.com/auth/login/docs`  
+    - https://edf-gsp.com/auth/login/docs  
 - Project Tracker Database
-    - `https://edf-gsp.com/projects`  
+    - https://edf-gsp.com/projects  
 - Buildable Land 
-    - `https://edf-gsp.com/buildable-land`
-    - `https://edf-gsp.com/buildable-land/{project_id}/{buildable_id}`  
+    - https://edf-gsp.com/buildable-land
+    - https://edf-gsp.com/buildable-land/{project_id}/{buildable_id}  
 - [Computron](computron.edfr.com)
-    - `https://edf-gsp.com/bopcapex/inputs/docs`
-    - `https://edf-gsp.com/bopcapex/inputs/analysis/{analysis_id}`
-    - `https://edf-gsp.com/bopcapex/results/scenarios/`  
-    - `https://edf-gsp.com/bopcapex/results/pfm/{scenario}`
+    - https://edf-gsp.com/bopcapex/inputs/docs
+    - https://edf-gsp.com/bopcapex/inputs/analysis/{analysis_id}
+    - https://edf-gsp.com/bopcapex/results/scenarios/  
+    - https://edf-gsp.com/bopcapex/results/pfm/{scenario}
+- Revenue model
+    - https://stg.edf-gsp.com/revenue/swagger/docs/`
+    - https://stg.edf-gsp.com/revenue/inputs/swagger/docs/
+    - https://stg.edf-gsp.com/revenue/results/swagger/docs/
 - Autolayout
     - Tracker fill
-        - `https://dev.edf-gsp.com/layout/input`
-        - `https://dev.edf-gsp.com/layout/fill/result/{project_id}/{analysis_id}`
+        - https://dev.edf-gsp.com/layout/input
+        - https://dev.edf-gsp.com/layout/fill/result/{project_id}/{analysis_id}
     - Tracker cut
     - Tracker cluster
     - PV Tender
