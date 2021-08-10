@@ -151,7 +151,7 @@ __What are the supporting metrics for the Success Metrics?__
     - https://edf-gsp.com/bopcapex/results/scenarios/  
     - https://edf-gsp.com/bopcapex/results/pfm/{scenario}
 - Revenue model
-    - https://stg.edf-gsp.com/revenue/swagger/docs/`
+    - https://stg.edf-gsp.com/revenue/swagger/docs/
     - https://stg.edf-gsp.com/revenue/inputs/swagger/docs/
     - https://stg.edf-gsp.com/revenue/results/swagger/docs/
 - Autolayout
