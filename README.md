@@ -8,7 +8,7 @@
 The reason for Solaris is to enable Project Developers and Originators to get the most competitive project configuration with the lowest possible LCOE in real-time. The hope is that this leads to a competitive advantage such that EDF constructs an additional 150 MW project per year. This translates into ___$37.5M___ per year in value by assuming EDF realizes approximately $75M NPV at CoD and assuming the Digital organization gets half the credit for the project being built.
 
 This comes from the Development business setting the 2021 strategy in January:
-![GSP Priorities](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Strat2021.PNG?token=ADPV3PC6FFB74Y6ESJA7SXLBBFD62)
+![GSP Priorities](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Strat2021.PNG)
 
 ## Objectives:
 - Lead to an extra 150 MW solar project per year.
@@ -20,7 +20,7 @@ This comes from the Development business setting the 2021 strategy in January:
 
 ## Success Metrics:
 ### Value Stream Mapping
-![Current Costing Process](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/ValueStreamMapping.png?token=ADPV3PGWUQXH7V6T447TJADBBKLV4)
+![Current Costing Process](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/ValueStreamMapping.png)
 
 ## Release Plan
 - Q1 2021 - Prototyping
@@ -44,10 +44,10 @@ This comes from the Development business setting the 2021 strategy in January:
 [Personas Deck on Sharepoint](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={B3F49786-79BA-4A00-BA9C-58025DB20339})
 
 ### Project Developer Dominique (PRIMARY)
-![Dominique](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Dominique.png?token=ADPV3PA7ULK5ULZGO7JH7MTBBFDW4) 
+![Dominique](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Dominique.png) 
 
 ### Originator Oscar
-![Oscar](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Oscar.png?token=ADPV3PH6GEXB6AW6I3EXYWDBBFDYW) 
+![Oscar](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Oscar.png) 
 
 ## User Scenarios
 Its a Friday in late August and Dominique has a weekend canoeing trip planned with her community of friends. Its about 8:45 am and she's just arrived at the Minneapolis office. She puts her bag down at her desk and heads toward the kitchen for her first cup of coffee. She's really looking forward to leaving the office a bit early to head out on her trip this afternoon. 
@@ -83,8 +83,8 @@ As Dominique wraps up the RFP application she's just in time to head out at 3 pm
 - GIS analysis
 
 ## Designs
-![Project first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Prelim%20Design%201.png?token=ADPV3PA7B5SUD5NYBXPHXTDBBFD2E)  
-![Services first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Prelim%20Design%202.png?token=ADPV3PETBUPB7YVMD3MBQMLBBFD3I)
+![Project first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Prelim%20Design%201.png)  
+![Services first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Prelim%20Design%202.png)
 
 ## Open Issues
 - Do we have the right slice?
