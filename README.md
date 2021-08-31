@@ -83,8 +83,9 @@ As Dominique wraps up the RFP application she's just in time to head out at 3 pm
 - GIS analysis
 
 ## Designs
-![Project first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Prelim%20Design%201.png)  
-![Services first design](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Prelim%20Design%202.png)
+![Project first design](visuals/Prelim%20Design%201.png)  
+![Project tile design](visuals/Prelim%20Design%202.png)
+![Compare proforma design](visuals/Prelim%20Design%203.png)
 
 ## Open Issues
 - Do we have the right slice?
@@ -146,8 +147,9 @@ __What are the supporting metrics for the Success Metrics?__
     - https://edf-gsp.com/buildable-land
     - https://edf-gsp.com/buildable-land/{project_id}/{buildable_id}  
 - [Computron](computron.edfr.com)
-    - https://edf-gsp.com/bopcapex/inputs/docs
+    - https://edf-gsp.com/bopcapex/inputs/swagger/docs/
     - https://edf-gsp.com/bopcapex/inputs/analysis/{analysis_id}
+    - https://edf-gsp.com/bopcapex/results/docs/
     - https://edf-gsp.com/bopcapex/results/scenarios/  
     - https://edf-gsp.com/bopcapex/results/pfm/{scenario}
 - Revenue model
