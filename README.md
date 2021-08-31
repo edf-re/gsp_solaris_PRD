@@ -44,10 +44,10 @@ This comes from the Development business setting the 2021 strategy in January:
 [Personas Deck on Sharepoint](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={B3F49786-79BA-4A00-BA9C-58025DB20339})
 
 ### Project Developer Dominique (PRIMARY)
-![Dominique](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Dominique.png) 
+![Dominique](Visuals/PersonaDominique.png) 
 
 ### Originator Oscar
-![Oscar](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Persona%20-%20Oscar.png) 
+![Oscar](Visuals/PersonaOscar.png) 
 
 ## User Scenarios
 Its a Friday in late August and Dominique has a weekend canoeing trip planned with her community of friends. Its about 8:45 am and she's just arrived at the Minneapolis office. She puts her bag down at her desk and heads toward the kitchen for her first cup of coffee. She's really looking forward to leaving the office a bit early to head out on her trip this afternoon. 
@@ -83,9 +83,9 @@ As Dominique wraps up the RFP application she's just in time to head out at 3 pm
 - GIS analysis
 
 ## Designs
-![Project first design](visuals/Prelim%20Design%201.png)  
-![Project tile design](visuals/Prelim%20Design%202.png)
-![Compare proforma design](visuals/Prelim%20Design%203.png)
+![Project first design](Visuals/PrelimDesign1.png)  
+![Project tile design](Visuals/PrelimDesign2.png)
+![Compare proforma design](Visuals/PrelimDesign3.png)
 
 ## Open Issues
 - Do we have the right slice?
