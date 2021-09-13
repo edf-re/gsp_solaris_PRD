@@ -50,7 +50,7 @@ This comes from the Development business setting the 2021 strategy in January:
 ### Originator Oscar
 ![Oscar](Visuals/PersonaOscar.png) 
 
-#User Scenarios
+# User Scenarios
 Its a Friday in late August and Dominique has a weekend canoeing trip planned with her community of friends. Its about 8:45 am and she's just arrived at the Minneapolis office. She puts her bag down at her desk and heads toward the kitchen for her first cup of coffee. She's really looking forward to leaving the office a bit early to head out on her trip this afternoon. 
 
 As Dominique checks her phone she sees a last-minute announcement for an RFP due on Monday. "Why do utilities do this to us?", she exclaims as she's heading back to her desk. A difficult part of this job is managing the uncertainty around high-priority, short-deadline delivery dates. Thankfully, she has access to Solaris. Before she's back at her desk she's opened the Solaris app to check on the projects within her portfolio. She can see there are a couple notifications to show that the V&A team had updated Merchant Curves a couple days prior. Seems manageable because the module and inverter road maps had also been updated and they seem to offset each other. 
