@@ -10,7 +10,8 @@ The reason for Solaris is to enable Project Developers and Originators to get th
 This comes from the Development business setting the 2021 strategy in January:
 ![GSP Priorities](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Strat2021.PNG)
 
-# Objectives:
+# Objectives
+- "Hey Solaris, reduce my CapEx by 3 cents and recalculate my PPA price by keeping the adjusted RRR constant"
 - Lead to an extra 150 MW solar project per year.
 - Get an optimized solar project configuration in real-time.
 - The optimization process will be accurate to within $0.50 of the full V&A proforma modeling.
@@ -18,7 +19,7 @@ This comes from the Development business setting the 2021 strategy in January:
 - Level up less experienced developers by giving them a window into the drivers behind a bid price.
 - Reduce SME workload.
 
-# Success Metrics:
+# Success Metrics
 ### Value Stream Mapping
 ![Current Costing Process](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/ValueStreamMapping.png)
 
