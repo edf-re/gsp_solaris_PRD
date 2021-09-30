@@ -38,7 +38,7 @@ This comes from the Development business setting the 2021 strategy in January:
     - O&M model 
     - EBITA model
     - CapEx and OpEx databases
-- Q4 2021 - Solar Engineering and EPE
+- Q4 2021 - Proforma
     - Tax model
     - Tax Equity model
     - CapEx edit
@@ -66,20 +66,15 @@ As Dominique wraps up the RFP application she's just in time to head out at 3 pm
 # Features In
 - View small (less than eight) project portfolio
 - Results delivered within minutes.
+- Proforma clone
 - Easily accessed via a phone or tablet or laptop
-- Seamless results pipeline from GIS to V&A processes to get UIRR
-    - EPE
-    - CapEx 
-    - OpEx
-    - Proforma
+- Edit an existing CapEx
 
 # Features Out
 - SME tools (providing front ends for Technical Services users)
     - Computron
     - EPE
     - CapEx and OpEx modeling
-- Tax equity
-- IRR (including levered returns and outside investment)
 - Storage
 - Prospecting (modeling across multiple sites)
 - Competitor analysis (modeling non-EDF sites)
