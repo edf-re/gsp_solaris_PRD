@@ -2,6 +2,7 @@
 
 # Change History
 2021.07.26 - Initial draft for comment
+2021.09.15 - Updated after feedback
 
 # Overview:
 ### "Push a button, get an optimized solar project"  
@@ -11,7 +12,7 @@ This comes from the Development business setting the 2021 strategy in January:
 ![GSP Priorities](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/Strat2021.PNG)
 
 # Objectives
-- "Hey Solaris, reduce my CapEx by 3 cents and recalculate my PPA price by keeping the adjusted RRR constant"
+- "Hey Solaris, reduce my CapEx by three cents and recalculate my PPA price by keeping the adjusted RRR constant"
 - Lead to an extra 150 MW solar project per year.
 - Get an optimized solar project configuration in real-time.
 - The optimization process will be accurate to within $0.50 of the full V&A proforma modeling.
@@ -32,16 +33,17 @@ This comes from the Development business setting the 2021 strategy in January:
 - Q2 2021 - BoP Modeling ([Computron](computron.edfr.com))  
 - Q3 2021 - Proforma  
     - Forward price curve inputs
-    - PPA revenue modeling
+    - Revenue modeling
     - Frontend
-    - CapEx and OpEx
-    - EBITA
+    - O&M model 
+    - EBITA model
+    - CapEx and OpEx databases
 - Q4 2021 - Solar Engineering and EPE
-    - Layout
-    - EPE
-    - Construction quantities - Schedule of Values (SoV)
+    - Tax model
+    - Tax Equity model
+    - CapEx edit
 
-#Personas
+# Personas
 [Personas Deck on Sharepoint](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={B3F49786-79BA-4A00-BA9C-58025DB20339})
 
 ### Project Developer Dominique (PRIMARY)
