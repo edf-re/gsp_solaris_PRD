@@ -2,7 +2,8 @@
 
 # Change History
 2021.07.26 - Initial draft for comment  
-2021.09.15 - Updated after feedback
+2021.09.15 - Updated after feedback  
+2021.10.05 - Updated with prototype UI designs
 
 # Overview:
 ### "Push a button, get an optimized solar project"  
@@ -150,6 +151,10 @@ __What are the supporting metrics for the Success Metrics?__
     - https://edf-gsp.com/bopcapex/results/docs/
     - https://edf-gsp.com/bopcapex/results/scenarios/  
     - https://edf-gsp.com/bopcapex/results/pfm/{scenario}
+- O&M
+    - https://stg.edf-gsp.com/om/swagger/docs/
+    - https://stg.edf-gsp.com/om/results/swagger/docs/
+    - https://stg.edf-gsp.com/om/inputs/swagger/docs/
 - Proforma
     - Revenue model
         - https://stg.edf-gsp.com/revenue/swagger/docs/
