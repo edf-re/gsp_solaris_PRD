@@ -1,7 +1,7 @@
 # Solaris
 
 # Change History
-2021.07.26 - Initial draft for comment
+2021.07.26 - Initial draft for comment  
 2021.09.15 - Updated after feedback
 
 # Overview:
