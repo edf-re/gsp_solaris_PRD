@@ -3,8 +3,8 @@
 # Change History
 2021.07.26 - Initial draft for comment  
 2021.09.15 - Updated after feedback  
-2021.10.05 - Updated with prototype UI designs
-2022.01.11 - Updated after New Year
+2021.10.05 - Updated with prototype UI designs  
+2022.01.11 - Updated after New Year  
 
 # Overview:
 ### "Push a button, get an optimized solar project"  
