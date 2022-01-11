@@ -4,6 +4,7 @@
 2021.07.26 - Initial draft for comment  
 2021.09.15 - Updated after feedback  
 2021.10.05 - Updated with prototype UI designs
+2022.01.11 - Updated after New Year
 
 # Overview:
 ### "Push a button, get an optimized solar project"  
@@ -26,23 +27,22 @@ This comes from the Development business setting the 2021 strategy in January:
 ![Current Costing Process](https://raw.githubusercontent.com/edf-re/gsp_solaris_PRD/main/Visuals/ValueStreamMapping.png)
 
 # Release Plan
-- Q1 2021 - Prototyping
+- 2021 - Prototyping
+    - [Solaris](https://edf-gsp.com/solaris/)
+    - [Computron](computron.edfr.com)
     - [Buildable Land Library](https://share.streamlit.io/edf-re/gsp_solaris_bl_library/main/app.py)
-    - GSP Cluster
-    - Pipeline generator
-    - [Opti Tool request form prototype](https://share.streamlit.io/edf-re/gsp_solaris_opti_tool/main/app.py)
-- Q2 2021 - BoP Modeling ([Computron](computron.edfr.com))  
-- Q3 2021 - Proforma  
-    - Forward price curve inputs
-    - Revenue modeling
-    - Frontend
-    - O&M model 
-    - EBITA model
-    - CapEx and OpEx databases
-- Q4 2021 - Proforma
-    - Tax model
-    - Tax Equity model
-    - CapEx edit
+    - [EPE Library](https://share.streamlit.io/edf-re/gsp_solaris_epe_library/main/app.py)
+- Q1 2022 - Proforma  
+    - Pre-tax cashflow model (Revenue, Expenses, CapEx, EBITDA)
+- Q2 2022 
+    - Proforma
+        - UIRR
+        - LCOE
+        - Tax Equity
+    - EPEs
+        - Layout
+        - Climate selection
+        - Performance modeling
 
 # Personas
 [Personas Deck on Sharepoint](https://edfrna.sharepoint.com/sites/US-GSPDigital/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={B3F49786-79BA-4A00-BA9C-58025DB20339})
@@ -65,11 +65,11 @@ Within two hours, Dominique has pricing committee approval to submit the three p
 As Dominique wraps up the RFP application she's just in time to head out at 3 pm for the three hour ride to the trip put-in. She won't worry about the RFP or the accuracy of the project modeling as she paddles with her friends and drinks around a campfire that evening. 
 
 # Features In
-- View small (less than eight) project portfolio
-- Results delivered within minutes.
+- View small project portfolio (less than eight projects) 
+- Results delivered within seconds
 - Proforma clone
 - Easily accessed via a phone or tablet or laptop
-- Edit an existing CapEx
+- Edit an existing scenario
 
 # Features Out
 - SME tools (providing front ends for Technical Services users)
@@ -138,39 +138,7 @@ __What are the supporting metrics for the Success Metrics?__
 
 
 # APIs
-- Authentication via Azure AD
-    - https://edf-gsp.com/auth/login/docs  
-- Project Tracker Database
-    - https://edf-gsp.com/projects  
-- [Buildable Land](https://share.streamlit.io/edf-re/gsp_solaris_bl_library/main/app.py) 
-    - https://edf-gsp.com/buildable-land
-    - https://edf-gsp.com/buildable-land/{project_id}/{buildable_id}  
-- [Computron](computron.edfr.com)
-    - https://edf-gsp.com/bopcapex/inputs/swagger/docs/
-    - https://edf-gsp.com/bopcapex/inputs/analysis/{analysis_id}
-    - https://edf-gsp.com/bopcapex/results/docs/
-    - https://edf-gsp.com/bopcapex/results/scenarios/  
-    - https://edf-gsp.com/bopcapex/results/pfm/{scenario}
-- O&M
-    - https://stg.edf-gsp.com/om/swagger/docs/
-    - https://stg.edf-gsp.com/om/results/swagger/docs/
-    - https://stg.edf-gsp.com/om/inputs/swagger/docs/
-- Proforma
-    - Revenue model
-        - https://stg.edf-gsp.com/revenue/swagger/docs/
-        - https://stg.edf-gsp.com/revenue/inputs/swagger/docs/
-        - https://stg.edf-gsp.com/revenue/results/swagger/docs/
-    - EBITDA model  
-        - https://stg.edf-gsp.com/ebitda/swagger/docs/
-        - https://stg.edf-gsp.com/ebitda/inputs/swagger/docs/
-        - https://stg.edf-gsp.com/ebitda/results/swagger/docs/
-- Autolayout
-    - Tracker fill
-        - https://dev.edf-gsp.com/layout/input
-        - https://dev.edf-gsp.com/layout/fill/result/{project_id}/{analysis_id}
-    - Tracker cut
-    - Tracker cluster
-    - PV Tender
+Full list of APIs is [here](https://miro.com/app/board/o9J_koCUiUI=/?moveToWidget=3074457364338537624&cot=14)
 
 # Other considerations
 None at this time. 
